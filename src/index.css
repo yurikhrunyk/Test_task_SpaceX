@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Syne';
+  src: url('./assets/fonts/Syne-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Syne';
+  src: url('./assets/fonts/Syne-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Syne';
+  src: url('./assets/fonts/Syne-Bold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Syne';
+  src: url('./assets/fonts/Syne-SemiBold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Syne';
+  src: url('./assets/fonts/Syne-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('./assets/fonts/Lato-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('./assets/fonts/Lato-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+body {
+  margin: 0;
+  font-family: 'Syne', sans-serif;
+  font-weight: 400;
+}
+
+* {
+  margin: 0;
+}
