@@ -2,9 +2,6 @@
 
 This is a test task single-page application built with React that showcases space travel tours offered by SpaceX. Users can explore different tours, add them to their favorites. The application utilizes TypeScript, Atomic Design pattern, React Apollo for fetching data from the SpaceX API, Recoil for state management of favorite flights on the frontend, and Styled Components for styling.
 
-Live Demo:
-You can try the live demo of the application by visiting [https://space-x-test-task-iota.vercel.app/](https://space-x-test-task-iota.vercel.app/).
-
 Technologies Used:
 
 - React: A JavaScript library for building user interfaces.
