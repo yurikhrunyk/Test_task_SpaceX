@@ -27,7 +27,7 @@ To run the application on your local machine, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd SpaceX-TestTask
+   cd Test_task_SpaceX
    ```
 
 3. Install the dependencies:
